@@ -1,6 +1,6 @@
 # Ejercicios-IO  Cesar Casadiego CI: 27276551
 
-###Ejercicio 1
+### Ejercicio 1
 
 Minimizar Z= 2x+3Y
 
@@ -10,7 +10,7 @@ y≤5
 
 x, y ≥ 0
 
-###Ejercicio 2
+### Ejercicio 2
 
 Variables Decisión:
 
@@ -28,7 +28,7 @@ Restricciones:
 - 4X + 2X <= 28
 - X, Y >=0
 
-###Ejercicio 3
+### Ejercicio 3
 
 Minimizar Z = 7X + 9Y
 
